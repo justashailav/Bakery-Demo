@@ -4,19 +4,19 @@ import { useEffect, useState } from "react";
 const cakeImages = {
   Round: {
     Chocolate:
-      "https://cdn.pixabay.com/photo/2017/01/20/15/06/cake-1993030_1280.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2024/6/430032552/NS/YQ/YI/222540455/chocolate-cake-500x500.jpg",
     Vanilla:
-      "https://cdn.pixabay.com/photo/2016/11/29/12/13/cake-1869227_1280.jpg",
+      "https://thescranline.com/wp-content/uploads/2025/02/VANILLA-CAKE-25-S-01.jpg",
     "Red Velvet":
-      "https://cdn.pixabay.com/photo/2018/05/01/18/21/cake-3366430_1280.jpg",
+      "https://thescranline.com/wp-content/uploads/2023/06/RED-VELVET-CAKE-23-S-01.jpg",
   },
   Square: {
     Chocolate:
-      "https://cdn.pixabay.com/photo/2020/03/18/15/09/cake-4947617_1280.jpg",
+      "https://cakofy.com/cdn/shop/files/A_decadent_Square_Truffle_Cake_Gurgaon_Delhi_NCR_Cakofy.png?v=1754301306",
     Vanilla:
-      "https://cdn.pixabay.com/photo/2016/03/05/19/02/cake-1238185_1280.jpg",
+      "https://bakings.in/wp-content/uploads/2024/08/Moms-Pineapple-Delight-Square-Cake.jpg",
     "Red Velvet":
-      "https://cdn.pixabay.com/photo/2021/02/14/14/45/cake-6016034_1280.jpg",
+      "https://onehotoven.com/wp-content/uploads/2025/04/feature-RV-cake-1-1.jpg",
   },
 };
 

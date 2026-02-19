@@ -150,12 +150,12 @@ export default function Home() {
               Explore Menu
             </Link>
 
-            <button
+            {/* <button
               onClick={() => setShowCakeForm(true)}
               className="border border-[#6B3E2E] text-[#6B3E2E] px-8 py-3 rounded-full font-semibold hover:bg-[#6B3E2E] hover:text-white"
             >
               Custom Cake 🎂
-            </button>
+            </button> */}
           </div>
         </div>
 

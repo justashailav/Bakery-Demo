@@ -156,7 +156,7 @@ export default function PhotoArchive() {
             >
               Curated Visual Exhibit
             </motion.span>
-            <h1 className="text-7xl md:text-[11rem] font-serif italic text-white tracking-tighter leading-[0.8] mix-blend-difference">
+            <h1 className="text-6xl md:text-[11rem] font-serif italic text-white tracking-tighter leading-[0.8] mix-blend-difference">
               Archive
             </h1>
           </div>
